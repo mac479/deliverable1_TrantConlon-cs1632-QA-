@@ -1,4 +1,3 @@
-package deliverable1_TrantConlon;
 
 public class coffee_test_class {
 
